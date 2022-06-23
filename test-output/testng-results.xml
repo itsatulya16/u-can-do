@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-18T22:31:41 IST" name="Default suite" finished-at="2022-06-18T22:33:22 IST" duration-ms="100320">
+    <groups>
+    </groups>
+    <test started-at="2022-06-18T22:31:41 IST" name="Default test" finished-at="2022-06-18T22:33:22 IST" duration-ms="100320">
+      <class name="mercury_tours.test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:mercury_tours.test@2667f029]" started-at="2022-06-18T22:31:41 IST" name="setup" finished-at="2022-06-18T22:31:43 IST" duration-ms="2006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="launchApp()[pri:0, instance:mercury_tours.test@2667f029]" started-at="2022-06-18T22:31:43 IST" name="launchApp" finished-at="2022-06-18T22:32:32 IST" duration-ms="48962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="clickRegister()[pri:1, instance:mercury_tours.test@2667f029]" started-at="2022-06-18T22:32:32 IST" name="clickRegister" finished-at="2022-06-18T22:33:21 IST" duration-ms="48790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickRegister -->
+        <test-method signature="filldata()[pri:2, instance:mercury_tours.test@2667f029]" started-at="2022-06-18T22:33:21 IST" name="filldata" finished-at="2022-06-18T22:33:22 IST" duration-ms="493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filldata -->
+      </class> <!-- mercury_tours.test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
